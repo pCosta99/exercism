@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "kytrinyx"
+  ],
+  "contributors": [
+    "budmc29",
+    "dalexj",
+    "dkinzer",
+    "hilary",
+    "iHiD",
+    "Insti",
+    "kotp",
+    "RiderSargent",
+    "tryantwit"
+  ],
+  "files": {
+    "solution": [
+      "pythagorean_triplet.rb"
+    ],
+    "test": [
+      "pythagorean_triplet_test.rb"
+    ],
+    "example": [
+      ".meta/example.rb"
+    ]
+  },
+  "blurb": "Given an integer N, find all Pythagorean triplets for which a + b + c = N.",
+  "source": "A variation of Problem 9 from Project Euler",
+  "source_url": "https://projecteuler.net/problem=9"
+}
