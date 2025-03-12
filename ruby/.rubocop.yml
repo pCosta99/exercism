@@ -11,3 +11,9 @@ Naming/MethodParameterName:
   Enabled: false
 Metrics/MethodLength:
   Max: 20
+Metrics/AbcSize:
+  Enabled: false
+Metrics/PerceivedComplexity:
+  Max: 15
+Metrics/CyclomaticComplexity:
+  Max: 15
